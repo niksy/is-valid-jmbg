@@ -1,0 +1,40 @@
+{
+  "name": "is-valid-jmbg",
+  "version": "0.0.0",
+  "description": "Check if JMBG is valid.",
+  "author": "Ivan Nikolić <niksy5@gmail.com> (http://ivannikolic.com/)",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "dependencies": {
+    "regex-jmbg": "^1.0.0",
+    "array-map": "^0.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "regex",
+    "jmbg",
+    "croatia",
+    "serbia",
+    "slovenia",
+    "montenegro",
+    "macedonia",
+    "bih",
+    "yugoslavia"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niksy/is-valid-jmbg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niksy/is-valid-jmbg/issues"
+  },
+  "homepage": "https://github.com/niksy/is-valid-jmbg"
+}
